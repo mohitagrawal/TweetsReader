@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">TweetsReader</string>
+    <string name="trending_topics">"Trending Topics"</string>
+    <string name="trending_tweets">"Trending Tweets"</string>
+    <string name="authorize">"Authenticate Using Twitter"</string>
+    <string name="comm_failure">"Communication Failure"</string>
+    <string name="no_data">"No data found"</string>
+
+</resources>
